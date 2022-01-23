@@ -2,7 +2,7 @@
 
 
 
-Synatx Suager:
+Synatx Suger:
     __getitem__, __setitem__, __delitem__
 
 ما برای زیبایی و سینتکس راحت تر از این متود استفاده می کنیم و این متود ها به خودی خوددر عمل کار خاصی
@@ -13,7 +13,7 @@ Custom Methods:
 بهم ریختگی زیادی در کد وجود می آورد. اما پایتون این متود ها را فراهم کرده است تا کار را زیباتر و راحت کند
 
 
-Syntax Suager:
+Syntax Suger:
 اگر بخواهیم با استفاده مستقیم از آبجکت و
 استفاده از ایندکس این عملیات ها انجام شود، از این سه متود استفاده می کنیم. مثال:
 mylist[3] => __getitem__
@@ -58,7 +58,7 @@ del my_list[3] => __delitem__
 
 
 # -------------
-# Syntax Suager
+# Syntax Suger
 class MyList:
 
     def __init__(self, element=1):
