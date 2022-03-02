@@ -1,0 +1,10 @@
+ERROR-2022-03-02 10:13:01,922-loggin_module.py-gives an error
+Traceback (most recent call last):
+  File "/home/mahdi/Desktop/Project/Python/Python/Intermediate-Topics/logging_module/loggin_module.py", line 36, in <module>
+    print(name['age'])
+KeyError: 'age'
+ERROR-2022-03-02 10:13:25,530-loggin_module.py-gives an error
+Traceback (most recent call last):
+  File "/home/mahdi/Desktop/Project/Python/Python/Intermediate-Topics/logging_module/loggin_module.py", line 36, in <module>
+    print(name['age'])
+KeyError: 'age'
